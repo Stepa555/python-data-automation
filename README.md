@@ -26,6 +26,7 @@
 3. Есть пропуски в колонках: Order_Date, Discount_Pct, Price_per_Box, Marketing_Spend
 4. Основные метрики: общая выручка ~ 102,572.4 тыс. руб, средний чек ~ 512.86 руб.
 
-## Автор
-**Степан Апсалямов**  
-[GitHub](https://github.com/Stepa555)
+## 📬 Контакты
+- GitHub: [Stepa555](https://github.com/Stepa555)
+- Email: stepan.apsalyamov@gmail.com
+- Telegram: @Stepap445
